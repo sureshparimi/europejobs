@@ -1,6 +1,6 @@
 # Latest Jobs
 
-This page is updated at July 21, 2023 19:16:56
+This page is updated at July 21, 2023 19:23:29
 
 | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |
 | --- | --- | --- | --- | --- | --- |
@@ -695,41 +695,3 @@ This page is updated at July 21, 2023 19:16:56
 | Zurich | Yes | Nexxiot | [Apply](https://boards.eu.greenhouse.io/nexxiot/jobs/4091552101?utm_source=swissdevjobs&utm_medium=cpc-swissdevjobs&utm_campaign=jobboard-swissdevjobs) | March 2, 2023 | 2023-07-20 |
 | Leuven | Yes | GUARDSQUARE | [Apply](https://boards.greenhouse.io/guardsquare/jobs/3042671) | March 2, 2023 | 2023-07-20 |
 | Berlin | Yes | Scout24 | [Apply](https://www.scout24.com/en/career/jobs/engineering/junior-backend-engineer-d-f-m-5186957) | July 18, 2023 | 2023-07-20 |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
-| null | null | null | [Apply](null) | null | null |
