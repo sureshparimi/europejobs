@@ -33,11 +33,11 @@ jobs:
           echo "" >> README.md
           echo "| Position | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |" >> README.md
           echo "| --- | --- | --- | --- | --- | --- | --- |" >> README.md
-          while IFS="|" read -r position job_location visa_sponsorship company_name job_link job_posted_on date_posted; do
+          while IFS="|" read -r position job_location visa_sponsorship company_name job_link job_posted_on; do
             if [[ "$job_location" != "null" || "$visa_sponsorship" != "null" || "$company_name" != "null" ]]; then
-              echo "| $position | $job_location | $visa_sponsorship | $company_name | [Apply]($job_link) | $job_posted_on | $date_posted |" >> README.md
+              echo "| $position | $job_location | $visa_sponsorship | $company_name | [Apply]($job_link) | $job_posted_on |" >> README.md
             fi
-          done < <(jq -r '.[] | "\(.Position)|\(.Job_location)|\(.Visa_sponsorship_available)|\(.company_name)|\(.job_link)|\(.Job_posted_on)|\(.DatePosted)"' alljobs.json) || echo "JSON parsing failed"
+          done < <(jq -r '.[] | "\(.Position)|\(.Job_location)|\(.Visa_sponsorship_available)|\(.company_name)|\(.job_link)|\(.Job_posted_on)"' alljobs.json) || echo "JSON parsing failed"
 
       - name: Set Git user credentials
         run: |
