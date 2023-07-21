@@ -1,4 +1,3 @@
-
 name: relocatewithusjobs
 
 on:
@@ -20,35 +19,30 @@ jobs:
           python-version: '3.9'
 
       - name: Installing necessary packages
-        run: |
-          apt list --installed
-          sudo apt purge google-chrome-stable
-          pip install chromedriver-autoinstaller selenium pyvirtualdisplay
-          sudo apt-get install xvfb
-          pip install requests beautifulsoup4 pandas webdriver-manager selenium
+        run: pip install requests beautifulsoup4 pandas
 
       - name: Run the scraping script
         run: python relocatewithus.py || echo "Script failed, continuing workflow"
 
-      - name: Parse relocatewithusjobs.json into table
+      - name: Parse alljobs.json into table
         id: parse-json
         run: |
           echo "# Latest Jobs" > README.md
           echo "" >> README.md
           echo "This page is updated at $(TZ='Asia/Kolkata' date +'%B %d, %Y %H:%M:%S')" >> README.md
           echo "" >> README.md
-          echo "| Job Title | Job Location | Job Link | Job Posted |" >> README.md
-          echo "| --- | --- | --- | --- |" >> README.md
-          while IFS="|" read -r job_title job_location job_link job_posted; do
-            echo "| $job_title | $job_location | [Apply]($job_link) | $job_posted |" >> README.md
-          done < <(jq -r '.[] | "\(.job_title)|\(.job_location)|\(.JobLink)|\(.JobPosted // (now | strftime("%e %B %Y %l:%M %p %Z")))"' relocatewithusjobs.json) || echo "JSON parsing failed"
+          echo "| Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |" >> README.md
+          echo "| --- | --- | --- | --- | --- | --- |" >> README.md
+          while IFS="|" read -r job_location visa_sponsorship company_name job_link job_posted_on date_posted; do
+            echo "| $job_location | $visa_sponsorship | $company_name | [Apply]($job_link) | $job_posted_on | $date_posted |" >> README.md
+          done < <(jq -r '.[] | "\(.Job_location)|\(.Visa_sponsorship_available)|\(.company_name)|\(.job_link)|\(.Job_posted_on)|\(.DatePosted)"' alljobs.json) || echo "JSON parsing failed"
 
       - name: Set Git user credentials
         run: |
           git config --global user.name "Suresh Parimi"
           git config --global user.email "reachparimi@gmail.com"
 
-      - name: Pull changes from remote repository
+      - name: Pull changes from the remote repository
         run: git pull
 
       - name: Commit and push if it changed
@@ -57,4 +51,3 @@ jobs:
           timestamp=$(date -u)
           git commit -m "Latest jobs: ${timestamp}" || exit 0
           git push
-
