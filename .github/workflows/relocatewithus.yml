@@ -24,7 +24,7 @@ jobs:
       - name: Run the scraping script
         run: python relocatewithus.py || echo "Script failed, continuing workflow"
 
-      - name: Parse alljobs.json into table
+      - name: Parse relocatewithusjobs.json into table
         id: parse-json
         run: |
           echo "# Latest Jobs" > README.md
@@ -37,7 +37,7 @@ jobs:
             if [[ "$job_location" != "null" || "$visa_sponsorship" != "null" || "$company_name" != "null" ]]; then
               echo "| $position | $job_location | $visa_sponsorship | $company_name | [Apply]($job_link) | $job_posted_on |" >> README.md
             fi
-          done < <(jq -r '.[] | "\(.Position)|\(.Job_location)|\(.Visa_sponsorship_available)|\(.company_name)|\(.job_link)|\(.Job_posted_on)"' alljobs.json) || echo "JSON parsing failed"
+          done < <(jq -r '.[] | "\(.Position)|\(.Job_location)|\(.Visa_sponsorship_available)|\(.company_name)|\(.job_link)|\(.Job_posted_on)"' relocatewithusjobs.json) || echo "JSON parsing failed"
 
       - name: Set Git user credentials
         run: |
