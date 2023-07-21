@@ -52,6 +52,6 @@ sorted_data = sorted(filtered_data, key=lambda x: datetime.strptime(x['Job_poste
 
 # Save updated data to relocatewithusjobs.json file
 with open('relocatewithusjobs.json', 'w') as f:
-    json.dump(unique_data, f, indent=4)
+    json.dump(sorted_data, f, indent=4)
 
 print("Data sorted, extra information removed, and duplicate records removed in relocatewithusjobs.json file.")
