@@ -32,7 +32,7 @@ for record in data:
         "company_name": record["company"],
         "job_link": record["description"],
         "Job_posted_on": record["post_date"],
-        "Position": record.get("position", "")  # Include the "position" key from the response
+        "Position": record["position"]
     }
     filtered_data.append(filtered_record)
 
