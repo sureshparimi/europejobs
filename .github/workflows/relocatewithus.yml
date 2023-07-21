@@ -31,13 +31,13 @@ jobs:
           echo "" >> README.md
           echo "This page is updated at $(TZ='Asia/Kolkata' date +'%B %d, %Y %H:%M:%S')" >> README.md
           echo "" >> README.md
-          echo "| Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |" >> README.md
+          echo "|Position|Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |" >> README.md
           echo "| --- | --- | --- | --- | --- | --- |" >> README.md
           while IFS="|" read -r job_location visa_sponsorship company_name job_link job_posted_on date_posted; do
             if [[ "$job_location" != "null" || "$visa_sponsorship" != "null" || "$company_name" != "null" ]]; then
               echo "| $job_location | $visa_sponsorship | $company_name | [Apply]($job_link) | $job_posted_on | $date_posted |" >> README.md
             fi
-          done < <(jq -r '.[] | "\(.Job_location)|\(.Visa_sponsorship_available)|\(.company_name)|\(.job_link)|\(.Job_posted_on)|\(.DatePosted)"' alljobs.json) || echo "JSON parsing failed"
+          done < <(jq -r '.[] | "\(.Position)| "\(.Job_location)|\(.Visa_sponsorship_available)|\(.company_name)|\(.job_link)|\(.Job_posted_on)|\(.DatePosted)"' alljobs.json) || echo "JSON parsing failed"
 
       - name: Set Git user credentials
         run: |
