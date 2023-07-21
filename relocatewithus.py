@@ -26,13 +26,16 @@ for record in data:
     visa_sponsorship = record.get("visa", "")
     visa_available = "Yes" if "Visa Sponsorship" in visa_sponsorship else "No"
     
+    # Extract the "position" information from the response
+    position = record.get("position", "")
+    
     filtered_record = {
         "Job_location": city_country,
         "Visa_sponsorship_available": visa_available,
         "company_name": record["company"],
         "job_link": record["description"],
         "Job_posted_on": record["post_date"],
-        "Position": record["position"]  # Include the "position" key
+        "Position": position  # Include the "position" key
     }
     filtered_data.append(filtered_record)
 
