@@ -34,7 +34,7 @@ jobs:
           echo "| Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |" >> README.md
           echo "| --- | --- | --- | --- | --- | --- |" >> README.md
           while IFS="|" read -r job_location visa_sponsorship company_name job_link job_posted_on date_posted; do
-            if [[ "$job_location" != "null" || "$visa_sponsorship" != "null" || "$company_name" != "null" || "$job_link" != "null" || "$job_posted_on" != "null" || "$date_posted" != "null" || "$job_link" != "https://github.com/sureshparimi/europejobs/blob/main/null" ]]; then
+            if [[ "$job_location" != "null" || "$visa_sponsorship" != "null" || "$company_name" != "null"]]; then
               echo "| $job_location | $visa_sponsorship | $company_name | [Apply]($job_link) | $job_posted_on | $date_posted |" >> README.md
             fi
           done < <(jq -r '.[] | "\(.Job_location)|\(.Visa_sponsorship_available)|\(.company_name)|\(.job_link)|\(.Job_posted_on)|\(.DatePosted)"' alljobs.json) || echo "JSON parsing failed"
