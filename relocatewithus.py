@@ -31,7 +31,8 @@ for record in data:
         "Visa_sponsorship_available": visa_available,
         "company_name": record["company"],
         "job_link": record["description"],
-        "Job_posted_on": record["post_date"]
+        "Job_posted_on": record["post_date"],
+        "Position": record["position"]
     }
     filtered_data.append(filtered_record)
 
