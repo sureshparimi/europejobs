@@ -34,10 +34,14 @@ jobs:
           echo "| Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |" >> README.md
           echo "| --- | --- | --- | --- | --- | --- |" >> README.md
           while IFS="|" read -r job_location visa_sponsorship company_name job_link job_posted_on date_posted; do
-            if [[ ! -z "$job_location" && ! -z "$visa_sponsorship" && ! -z "$company_name" && ! -z "$job_link" && ! -z "$job_posted_on" && ! -z "$date_posted" ]]; then
+            if [[ ! -z "$job_location" && ! -z "$visa_sponsorship" && ! -z "$company_name" && ! -z "$job_link" && ! -z "$job_posted_on" && ! -z "$date_posted" && "$job_link" != "https://github.com/sureshparimi/europejobs/blob/main/null" ]]; then
               echo "| $job_location | $visa_sponsorship | $company_name | [Apply]($job_link) | $job_posted_on | $date_posted |" >> README.md
             fi
           done < <(jq -r '.[] | "\(.Job_location)|\(.Visa_sponsorship_available)|\(.company_name)|\(.job_link)|\(.Job_posted_on)|\(.DatePosted)"' alljobs.json) || echo "JSON parsing failed"
+
+      - name: Remove invalid job records from README.md
+        run: |
+          sed -i '/https:\/\/github\.com\/sureshparimi\/europejobs\/blob\/main\/null/d' README.md
 
       - name: Set Git user credentials
         run: |
