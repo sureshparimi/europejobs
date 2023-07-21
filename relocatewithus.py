@@ -42,13 +42,13 @@ for record in data:
 # Convert the post_date value to a sortable datetime format
 sorted_data = sorted(filtered_data, key=lambda x: datetime.strptime(x['Job_posted_on'], "%B %d, %Y"), reverse=True)
 
-# Remove duplicate records based on job_link
-unique_data = []
-job_links = set()
-for record in sorted_data:
-    if record["job_link"] not in job_links:
-        job_links.add(record["job_link"])
-        unique_data.append(record)
+# # Remove duplicate records based on job_link
+# unique_data = []
+# job_links = set()
+# for record in sorted_data:
+#     if record["job_link"] not in job_links:
+#         job_links.add(record["job_link"])
+#         unique_data.append(record)
 
 # Save updated data to relocatewithusjobs.json file
 with open('relocatewithusjobs.json', 'w') as f:
