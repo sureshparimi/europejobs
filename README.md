@@ -1,9 +1,13 @@
 # Latest Jobs
 
-This page is updated at July 25, 2023 13:39:18
+This page is updated at July 25, 2023 17:42:59
 
 | Position | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| Junior Analyst Technology Markets (m/f/d) | Hamburg | Yes | Statista | [Apply](https://statista.jobs.personio.de/job/1192670?language=de&display=en) | July 25, 2023 |
+| Performance Marketing Analytics Manager (all genders) | Berlin | Yes | Delivery Hero | [Apply](https://careers.deliveryhero.com/global/en/job/DEHEGLOBALJR0040732EXTERNALENGLOBAL/Performance-Marketing-Analytics-Manager-all-genders) | July 25, 2023 |
+| Backend QA Tester | Hamburg | Yes | justDice | [Apply](https://join.com/companies/justdice/8695672-backend-qa-tester) | July 25, 2023 |
+| Data & Reporting Analyst (fixed-term role) | Bath | Yes | University of Bath | [Apply](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=HC10775R) | July 25, 2023 |
 | AI Full Stack Engineer (m/f/d) | Berlin | Yes | Merantix Momentum | [Apply](https://join.com/companies/mxlabs/8664026-ai-full-stack-engineer-m-f-d) | July 20, 2023 |
 | DevOps Engineer (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8669156-devops-engineer-f-m-d) | July 20, 2023 |
 | Junior CRM Manager (m/f/x) | Berlin | Yes | Hashtag You | [Apply](https://hashtagyou.jobs.personio.com/job/1192172?display=en) | July 20, 2023 |
@@ -163,7 +167,6 @@ This page is updated at July 25, 2023 13:39:18
 | Network DevOps Engineer | Amsterdam | Yes | Adyen | [Apply](https://boards.greenhouse.io/adyen/jobs/4821859) | June 15, 2023 |
 | Workday Solution Architect (x/f/m) | Paris | Yes | Doctolib | [Apply](https://careers.doctolib.com/job/?gh_jid=5643238003) | June 15, 2023 |
 | Lead Sales Digitization Manager (d/f/m) | Berlin | Yes | Scout24 | [Apply](https://www.immobilienscout24.de/unternehmen/karriere/jobs/sales-sales-operations/senior-sales-digitization-manager-d-f-m-5071616/) | June 15, 2023 |
-| Performance Marketing Analytics Manager (all genders) | Berlin | Yes | Delivery Hero | [Apply](https://careers.deliveryhero.com/global/en/job/DEHEGLOBALJR0040732EXTERNALENGLOBAL/Performance-Marketing-Analytics-Manager-all-genders) | June 15, 2023 |
 | (Senior) Product Analyst - Logistics | Berlin | Yes | Delivery Hero | [Apply](https://careers.deliveryhero.com/global/en/job/DEHEGLOBALJR0038804EXTERNALENGLOBAL/-Senior-Product-Analyst-Logistics) | June 15, 2023 |
 | Junior GCP DevOps Engineer (m/f/d) | Hamburg | Yes | About you | [Apply](https://corporate.aboutyou.de/en/jobs/junior-gcp-devops-engineer-m-f-d-marketing-intelligence-and-technology-team) | June 14, 2023 |
 | (Junior) Business Analyst (m/w/d) - SCAYLE | Hamburg | Yes | About you | [Apply](https://corporate.aboutyou.de/en/jobs/junior-business-analyst-m-w-d-scayle) | June 14, 2023 |
