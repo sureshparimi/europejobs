@@ -1,9 +1,14 @@
 # Latest Jobs
 
-This page is updated at July 26, 2023 17:41:52
+This page is updated at July 26, 2023 21:37:46
 
 | Position | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| (Senior) Data Analyst - askStatista (m/f/d) | Hamburg | Yes | Statista | [Apply](https://statista.jobs.personio.de/job/1197598?display=en) | July 26, 2023 |
+| Analytics Engineer (m/f/d) - SCAYLE | Hamburg | Yes | About you | [Apply](https://www.linkedin.com/jobs/view/3674671829) | July 26, 2023 |
+| Marketing Specialist (all genders) | Berlin | Yes | Payrails | [Apply](https://payrails-a878df-6480e55b81e9de7932c1b74.webflow.io/career/jobs?id=1199084) | July 26, 2023 |
+| Data Scientist for Developing an Animal Digital Twin | Wageningen | Yes | Wageningen University & Research | [Apply](https://www.wur.nl/nl/vacature/data-scientist-for-developing-an-animal-digital-twin.htm) | July 26, 2023 |
+| PhD Candidate in Nutrition and measuring Biological Ageing | Wageningen | Yes | Wageningen University & Research | [Apply](https://www.wur.nl/nl/vacature/phd-candidate-in-nutrition-and-measuring-biological-ageing.htm) | July 26, 2023 |
 | Junior Analyst Technology Markets (m/f/d) | Hamburg | Yes | Statista | [Apply](https://statista.jobs.personio.de/job/1192670?language=de&display=en) | July 25, 2023 |
 | Performance Marketing Analytics Manager (all genders) | Berlin | Yes | Delivery Hero | [Apply](https://careers.deliveryhero.com/global/en/job/DEHEGLOBALJR0040732EXTERNALENGLOBAL/Performance-Marketing-Analytics-Manager-all-genders) | July 25, 2023 |
 | Backend QA Tester | Hamburg | Yes | justDice | [Apply](https://join.com/companies/justdice/8695672-backend-qa-tester) | July 25, 2023 |
