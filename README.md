@@ -1,9 +1,15 @@
 # Latest Jobs
 
-This page is updated at August 03, 2023 21:37:12
+This page is updated at August 04, 2023 01:36:26
 
 | Position | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| Senior Analytical Engineer - Marketing (m/f/d) | Berlin | Yes | HomeToGo | [Apply](https://www.linkedin.com/jobs/view/3650992740) | August 3, 2023 |
+| Manager UX Writing & Content Design, FinTech | Amsterdam | Yes | Booking.com | [Apply](https://jobs.booking.com/careers/job/562949955618345) | August 3, 2023 |
+| Azure Data Engineer | Amsterdam | Yes | STAFIDE | [Apply](https://stafide.zohorecruit.com/jobs/Careers/596028000011185096/Azure-Data-Engineer) | August 3, 2023 |
+| Senior Backend Engineer (Kotlin) – Mobile Application Development (m | f | x) | Berlin | [Apply](Yes) | idealo internet GmbH|https://jobs.idealo.com/o/senior-backend-engineer-kotlin-mobile-application-development-mfx|August 3, 2023 |
+| Quality Assurance Engineer | Düsseldorf | Yes | trivago | [Apply](https://careers.trivago.com/job/r6743285002) | August 3, 2023 |
+| Backend Engineer (Kotlin) - Reporting & Insights | Berlin | Yes | SumUp | [Apply](https://www.sumup.com/careers/positions/berlin-germany/engineering/backend-engineer-kotlin-reporting-insights/6872555002) | August 3, 2023 |
 | Junior Java Engineer | Eindhoven | Yes | Brunel | [Apply](https://www.brunel.net/nl-nl/vacatures/junior-java-engineer-pub402757) | July 30, 2023 |
 | Junior .NET Engineer | Eindhoven | Yes | Brunel | [Apply](https://www.brunel.net/nl-nl/vacatures/junior-net-engineer-pub402759) | July 30, 2023 |
 | Senior Data Engineer (f/m/x) | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5100839) | July 30, 2023 |
