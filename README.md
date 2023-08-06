@@ -1,9 +1,16 @@
 # Latest Jobs
 
-This page is updated at August 06, 2023 21:38:04
+This page is updated at August 07, 2023 01:36:07
 
 | Position | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| Node.js Developer | Amsterdam | Yes | STAFIDE | [Apply](https://stafide.zohorecruit.com/jobs/Careers/596028000011240018/Node-js-Developer) | August 6, 2023 |
+| Marketing and Communications Lead (CH10866) | Bath | Yes | University of Bath | [Apply](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=CH10866) | August 6, 2023 |
+| Backend QA Tester | Hamburg | Yes | justDice | [Apply](https://join.com/companies/justdice/8821218-backend-qa-tester-f-m-d) | August 6, 2023 |
+| Senior Data Engineer - Pooling Analytics (m/f/d) | Berlin | Yes | MOIA | [Apply](https://boards.eu.greenhouse.io/moia/jobs/4200156101) | August 6, 2023 |
+| Senior DevOps Engineer (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8825465-senior-devops-engineer-f-m-d) | August 6, 2023 |
+| Senior Android Developer (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8770806-senior-android-developer-f-m-d) | August 6, 2023 |
+| Lead Business Intelligence Analyst (f/m/d) | Hamburg | Yes | justDice | [Apply](https://join.com/companies/justdice/8748341-lead-business-intelligence-analyst-f-m-d) | August 6, 2023 |
 | Senior Analytical Engineer - Marketing (m/f/d) | Berlin | Yes | HomeToGo | [Apply](https://www.linkedin.com/jobs/view/3650992740) | August 3, 2023 |
 | Manager UX Writing & Content Design, FinTech | Amsterdam | Yes | Booking.com | [Apply](https://jobs.booking.com/careers/job/562949955618345) | August 3, 2023 |
 | Azure Data Engineer | Amsterdam | Yes | STAFIDE | [Apply](https://stafide.zohorecruit.com/jobs/Careers/596028000011185096/Azure-Data-Engineer) | August 3, 2023 |
@@ -22,7 +29,6 @@ This page is updated at August 06, 2023 21:38:04
 | PhD Candidate in Nutrition and measuring Biological Ageing | Wageningen | Yes | Wageningen University & Research | [Apply](https://www.wur.nl/nl/vacature/phd-candidate-in-nutrition-and-measuring-biological-ageing.htm) | July 26, 2023 |
 | Junior Analyst Technology Markets (m/f/d) | Hamburg | Yes | Statista | [Apply](https://statista.jobs.personio.de/job/1192670?language=de&display=en) | July 25, 2023 |
 | Performance Marketing Analytics Manager (all genders) | Berlin | Yes | Delivery Hero | [Apply](https://careers.deliveryhero.com/global/en/job/DEHEGLOBALJR0040732EXTERNALENGLOBAL/Performance-Marketing-Analytics-Manager-all-genders) | July 25, 2023 |
-| Backend QA Tester | Hamburg | Yes | justDice | [Apply](https://join.com/companies/justdice/8695672-backend-qa-tester) | July 25, 2023 |
 | Data & Reporting Analyst (fixed-term role) | Bath | Yes | University of Bath | [Apply](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=HC10775R) | July 25, 2023 |
 | AI Full Stack Engineer (m/f/d) | Berlin | Yes | Merantix Momentum | [Apply](https://join.com/companies/mxlabs/8664026-ai-full-stack-engineer-m-f-d) | July 20, 2023 |
 | DevOps Engineer (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8669156-devops-engineer-f-m-d) | July 20, 2023 |
@@ -39,7 +45,6 @@ This page is updated at August 06, 2023 21:38:04
 | Product Analyst - Food (m/f/x) | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5187341) | July 18, 2023 |
 | Principal Engineer | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5151724) | July 18, 2023 |
 | Senior Python Engineer | Düsseldorf | Yes | Picnic | [Apply](https://picnic.app/careers/jobs/4565089/technology--amp--engineering/amsterdam-north-holland-netherlands/senior-python-engineer) | July 18, 2023 |
-| Senior Android Developer (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8622938-senior-android-developer-f-m-d) | July 16, 2023 |
 | Senior Frontend Engineer - React / Typescript | Amsterdam | Yes | Insify | [Apply](https://careers.insify.nl/senior-frontend-engineer-react-typescript) | July 16, 2023 |
 | Backend Developer (Node.js) | Amsterdam | Yes | Insify | [Apply](https://careers.insify.nl/back-end-developer-nodejs) | July 16, 2023 |
 | Senior Backend/Full-Stack Typescript Engineer | Amsterdam | Yes | Insify | [Apply](https://careers.insify.nl/full-stack-software-engineer-2) | July 16, 2023 |
