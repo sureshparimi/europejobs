@@ -1,9 +1,14 @@
 # Latest Jobs
 
-This page is updated at August 11, 2023 13:38:23
+This page is updated at August 11, 2023 17:41:13
 
 | Position | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| Junior Backend Engineer (d/f/m) | Berlin | Yes | Scout24 | [Apply](https://www.scout24.com/en/career/jobs/engineering/junior-backend-engineer-d-f-m-5186957) | August 11, 2023 |
+| Senior Full Stack Engineer - React & Elixir or Ruby (gn) | Berlin | Yes | MEDWING | [Apply](https://medwing.jobs.personio.de/job/1190128) | August 11, 2023 |
+| Senior Frontend Engineer | Berlin | Yes | SumUp | [Apply](https://www.sumup.com/careers/positions/berlin-germany/engineering/senior-frontend-engineer/6884697002) | August 11, 2023 |
+| Product Marketing Specialist (d/f/m) | Berlin | Yes | taxfix | [Apply](https://taxfix.de/en/careers/open-position/6884964002/) | August 11, 2023 |
+| Senior Marketing Automation Manager (m/f/x) | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5260162) | August 11, 2023 |
 | Node.js Developer | Amsterdam | Yes | STAFIDE | [Apply](https://stafide.zohorecruit.com/jobs/Careers/596028000011240018/Node-js-Developer) | August 6, 2023 |
 | Marketing and Communications Lead (CH10866) | Bath | Yes | University of Bath | [Apply](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=CH10866) | August 6, 2023 |
 | Backend QA Tester | Hamburg | Yes | justDice | [Apply](https://join.com/companies/justdice/8821218-backend-qa-tester-f-m-d) | August 6, 2023 |
@@ -37,7 +42,6 @@ This page is updated at August 11, 2023 13:38:23
 | Unity Gameplay Developer (f/m/d) | Hamburg | Yes | Sunday GmbH | [Apply](https://join.com/companies/sunday/8668733-unity-gameplay-developer-f-m-d-munich) | July 20, 2023 |
 | (Junior) Research Analyst (d/m/w) | Berlin | Yes | Civey | [Apply](https://civey-gmbh.jobs.personio.de/job/1067433?display=en) | July 20, 2023 |
 | Business Intelligence Developer (f/m/d) | Berlin | Yes | Scout24 | [Apply](https://www.scout24.com/en/career/jobs/engineering/business-intelligence-developer-f-m-d-5202134) | July 20, 2023 |
-| Junior Backend Engineer (d/f/m) | Berlin | Yes | Scout24 | [Apply](https://www.scout24.com/en/career/jobs/engineering/junior-backend-engineer-d-f-m-5186957) | July 18, 2023 |
 | Data Engineer | Madrid | Yes | DataScienceJobs.es | [Apply](https://www.linkedin.com/jobs/view/3666559665) | July 18, 2023 |
 | Performance Marketing Manager (m/f/d) | Berlin | Yes | Micropsi Industries | [Apply](https://join.com/companies/micropsi-industries/8629168-performance-marketing-manager-m-f-d) | July 18, 2023 |
 | (Senior) Software Engineer (Frontend) (m/f/d) | Berlin | Yes | raisin | [Apply](https://join.com/companies/raisin/8646344-senior-software-engineer-frontend-m-f-d) | July 18, 2023 |
