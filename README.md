@@ -1,9 +1,19 @@
 # Latest Jobs
 
-This page is updated at August 17, 2023 13:38:28
+This page is updated at August 17, 2023 17:41:10
 
 | Position | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| UI/UX Designer (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8891402-ui-ux-designer-f-m-d) | August 17, 2023 |
+| Go Backend Developer (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8891399-go-backend-developer-f-m-d) | August 17, 2023 |
+| Supply Growth Manager (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8891734-supply-growth-manager-f-m-d) | August 17, 2023 |
+| .Net & Azure Engineer | Amsterdam | Yes | STAFIDE | [Apply](https://stafide.zohorecruit.com/jobs/Careers/596028000011577470/Net-Azure-Engineer) | August 17, 2023 |
+| Product Owner - B2C (m | w | x) | Berlin | [Apply](Yes) | idealo internet GmbH|https://jobs.idealo.com/o/product-owner-b2c-mwx-1|August 17, 2023 |
+| (Senior) Fullstack Engineer - Homepage | Berlin | Yes | idealo internet GmbH | [Apply](https://jobs.idealo.com/o/senior-fullstack-engineer-homepage-mfx) | August 17, 2023 |
+| Senior Backend Engineer (m/f/d) | Berlin | Yes | Vermietet.de (von ImmoScout24) | [Apply](https://join.com/companies/zenhomes/8926240-senior-backend-engineer-m-f-d) | August 17, 2023 |
+| Senior Backend Engineer (m/f/d) | Berlin | Yes | Dunia | [Apply](https://join.com/companies/dunia/8932941-senior-software-engineer-f-m-d) | August 17, 2023 |
+| Business Development Manager (f/m/d) | Hamburg | Yes | justDice | [Apply](https://jobs.lever.co/applike/6ba9a37b-8478-439b-9d47-39e72dc99b91) | August 17, 2023 |
+| (Senior) SEO Manager (m/f/x) | Berlin | Yes | Kitchen Stories - Anyone can cook! | [Apply](https://join.com/companies/kitchenstories/8926824-senior-seo-manager-m-f-x) | August 17, 2023 |
 | Junior Backend Engineer (d/f/m) | Berlin | Yes | Scout24 | [Apply](https://www.scout24.com/en/career/jobs/engineering/junior-backend-engineer-d-f-m-5186957) | August 11, 2023 |
 | Senior Full Stack Engineer - React & Elixir or Ruby (gn) | Berlin | Yes | MEDWING | [Apply](https://medwing.jobs.personio.de/job/1190128) | August 11, 2023 |
 | Senior Frontend Engineer | Berlin | Yes | SumUp | [Apply](https://www.sumup.com/careers/positions/berlin-germany/engineering/senior-frontend-engineer/6884697002) | August 11, 2023 |
@@ -146,7 +156,6 @@ This page is updated at August 17, 2023 13:38:28
 | Senior Software Engineer (M/F/D) | Aachen & München | Yes | gridX | [Apply](https://gridx.jobs.personio.de/job/631925?display=en) | June 21, 2023 |
 | Backend Developer (M/F/D) | Aachen & München | Yes | gridX | [Apply](https://gridx.jobs.personio.de/job/543653?display=en) | June 21, 2023 |
 | Technical Product Owner | Berlin | Yes | idealo internet GmbH | [Apply](https://jobs.idealo.com/o/technical-product-owner-mfd) | June 21, 2023 |
-| (Senior) Fullstack Engineer - Homepage | Berlin | Yes | idealo internet GmbH | [Apply](https://jobs.idealo.com/o/senior-fullstack-engineer-homepage-mfx) | June 21, 2023 |
 | (Senior) Backend Developer | Berlin | Yes | idealo internet GmbH | [Apply](https://jobs.idealo.com/o/senior-backend-developer-mfx) | June 21, 2023 |
 | PR & Communications Manager | Berlin | Yes | idealo internet GmbH | [Apply](https://jobs.idealo.com/o/pr-communications-manager-mwx-1) | June 21, 2023 |
 | Brand & Communications Manager France | Berlin | Yes | idealo internet GmbH | [Apply](https://jobs.idealo.com/o/brand-communications-manager-france-mfx-berlin) | June 21, 2023 |
@@ -302,7 +311,6 @@ This page is updated at August 17, 2023 13:38:28
 | Development Engineer (m/f/x) for ASIC/FPGA | Dresden | Yes | K-tronik GmbH | [Apply](https://join.com/companies/k-tronik/7920276-development-engineer-m-f-x-for-asic-fpga) | May 28, 2023 |
 | UI Artist (f/m/d) | Munich | Yes | Chimera Entertainment | [Apply](https://join.com/companies/chimera-entertainment/8160621-ui-artist-f-m-d) | May 28, 2023 |
 | Risk and Fraud Analyst - Small Partner Solutions (m/f/d) | Berlin | Yes | HomeToGo | [Apply](https://boards.eu.greenhouse.io/hometogo/jobs/4169559101) | May 28, 2023 |
-| Senior Backend Engineer (m/f/d) | Berlin | Yes | Vermietet.de (von ImmoScout24) | [Apply](https://join.com/companies/zenhomes/8163756-senior-backend-engineer-m-f-d) | May 28, 2023 |
 | Linux System Engineer | Amsterdam | Yes | Adyen | [Apply](https://boards.greenhouse.io/adyen/jobs/3751149) | May 28, 2023 |
 | Learning and Development Specialist | Paris | Yes | BlaBlaCar | [Apply](https://jobs.lever.co/blablacar/0226a24b-9780-4821-8a5b-02ad6a518692/apply) | May 25, 2023 |
 | Back End Developer | Amsterdam | Yes | Marktplaats | [Apply](https://www.linkedin.com/jobs/search/?currentJobId=3610515015&f_C=399098&geoId=92000000&originToLandingJobPostings=3616903681%2C3616904514%2C3610515015%2C3614603459%2C3599135782%2C3610522054%2C3612085361) | May 25, 2023 |
