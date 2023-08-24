@@ -1,9 +1,18 @@
 # Latest Jobs
 
-This page is updated at August 24, 2023 13:38:33
+This page is updated at August 24, 2023 17:42:15
 
 | Position | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| Marketing Analyst (M/F/D) | Aachen & München | Yes | gridX | [Apply](https://gridx.jobs.personio.de/job/1222898?language=en&display=en) | August 24, 2023 |
+| Machine Learning Project Manager (m/f/d) | Berlin | Yes | Merantix Momentum | [Apply](https://join.com/companies/mxlabs/8994634-machine-learning-project-manager-m-f-d) | August 24, 2023 |
+| Senior Backend Developer | Barcelona | Yes | Sequra | [Apply](https://sequra.recruitee.com/o/senior-backend-developer-barcelona) | August 24, 2023 |
+| Business Analyst | Amsterdam | Yes | STAFIDE | [Apply](https://stafide.zohorecruit.com/jobs/Careers/596028000011779470/Business-Analyst) | August 24, 2023 |
+| DevOps Analyst | Amsterdam | Yes | STAFIDE | [Apply](https://stafide.zohorecruit.com/jobs/Careers/596028000011779274/DevOps-Analyst) | August 24, 2023 |
+| Senior UX Designer (m/f/d) | Berlin | Yes | Instapro | [Apply](https://careers.instapro.group/o/senior-ux-designer-mfd) | August 24, 2023 |
+| Lead UX Researcher | Berlin | Yes | Instapro | [Apply](https://careers.instapro.group/o/template-germany-6) | August 24, 2023 |
+| SEO Manager | Berlin | Yes | Instapro | [Apply](https://careers.instapro.group/o/seo-manager-amsterdam) | August 24, 2023 |
+| Lead Frontend Developer (Innovation team) | Berlin | Yes | Instapro | [Apply](https://careers.instapro.group/o/lead-frontend-developer-innovation-team-3) | August 24, 2023 |
 | UI/UX Designer (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8891402-ui-ux-designer-f-m-d) | August 17, 2023 |
 | Go Backend Developer (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8891399-go-backend-developer-f-m-d) | August 17, 2023 |
 | Supply Growth Manager (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8891734-supply-growth-manager-f-m-d) | August 17, 2023 |
