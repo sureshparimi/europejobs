@@ -1,9 +1,17 @@
 # Latest Jobs
 
-This page is updated at August 29, 2023 21:38:17
+This page is updated at August 30, 2023 01:37:17
 
 | Position | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| (Junior) Software Engineer - Open Banking Data (all genders) | Kraków | Yes | finleap connect | [Apply](https://qwist.jobs.personio.com/job/1115613?display=en&language=en) | August 29, 2023 |
+| Platform Software Architect | Amsterdam | Yes | Storyteq | [Apply](https://www.linkedin.com/jobs/view/3667594337) | August 29, 2023 |
+| Scrum Master (d/f/m) | Munich | Yes | arculus – a Jungheinrich company | [Apply](https://www.arculus.de/jobs/?gh_jid=4116480003) | August 29, 2023 |
+| Control Engineer for Electric Motors (d/f/m) | Munich | Yes | arculus – a Jungheinrich company | [Apply](https://www.arculus.de/jobs/?gh_jid=5418497003) | August 29, 2023 |
+| Rust Developer (d/f/m) | Munich | Yes | arculus – a Jungheinrich company | [Apply](https://www.arculus.de/jobs/?gh_jid=5684797003) | August 29, 2023 |
+| Finance Manager - Consolidation & Projects | Paris | Yes | BlaBlaCar | [Apply](https://jobs.lever.co/blablacar/27037ac9-321b-46fc-b14d-cdbb4059c0df) | August 29, 2023 |
+| Senior PR Manager (m/f/d) | Berlin | Yes | Moonfare | [Apply](https://boards.greenhouse.io/moonfareintnl/jobs/5726344003) | August 29, 2023 |
+| Senior Paid Social Manager (m/f/x) | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5318389) | August 29, 2023 |
 | Marketing Analyst (M/F/D) | Aachen & München | Yes | gridX | [Apply](https://gridx.jobs.personio.de/job/1222898?language=en&display=en) | August 24, 2023 |
 | Machine Learning Project Manager (m/f/d) | Berlin | Yes | Merantix Momentum | [Apply](https://join.com/companies/mxlabs/8994634-machine-learning-project-manager-m-f-d) | August 24, 2023 |
 | Senior Backend Developer | Barcelona | Yes | Sequra | [Apply](https://sequra.recruitee.com/o/senior-backend-developer-barcelona) | August 24, 2023 |
@@ -44,7 +52,6 @@ This page is updated at August 29, 2023 21:38:17
 | Junior Java Engineer | Eindhoven | Yes | Brunel | [Apply](https://www.brunel.net/nl-nl/vacatures/junior-java-engineer-pub402757) | July 30, 2023 |
 | Junior .NET Engineer | Eindhoven | Yes | Brunel | [Apply](https://www.brunel.net/nl-nl/vacatures/junior-net-engineer-pub402759) | July 30, 2023 |
 | Senior Data Engineer (f/m/x) | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5100839) | July 30, 2023 |
-| Rust Developer (d/f/m) | Munich | Yes | arculus – a Jungheinrich company | [Apply](https://www.arculus.de/jobs/?gh_jid=5684797003) | July 30, 2023 |
 | Product Manager - BlaBlaCar Daily | Paris | Yes | BlaBlaCar | [Apply](https://jobs.lever.co/blablacar/493f4637-bedf-4986-8739-b414d5060c0a/apply) | July 30, 2023 |
 | (Senior) Data Analyst - askStatista (m/f/d) | Hamburg | Yes | Statista | [Apply](https://statista.jobs.personio.de/job/1197598?display=en) | July 26, 2023 |
 | Analytics Engineer (m/f/d) - SCAYLE | Hamburg | Yes | About you | [Apply](https://www.linkedin.com/jobs/view/3674671829) | July 26, 2023 |
