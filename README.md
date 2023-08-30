@@ -1,9 +1,11 @@
 # Latest Jobs
 
-This page is updated at August 30, 2023 17:42:01
+This page is updated at August 30, 2023 21:38:24
 
 | Position | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| Frontend Developer (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8981726-frontend-developer-f-m-d) | August 30, 2023 |
+| Senior Product Owner - Payments Alliance | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5264674) | August 30, 2023 |
 | (Junior) Software Engineer - Open Banking Data (all genders) | Kraków | Yes | finleap connect | [Apply](https://qwist.jobs.personio.com/job/1115613?display=en&language=en) | August 29, 2023 |
 | Platform Software Architect | Amsterdam | Yes | Storyteq | [Apply](https://www.linkedin.com/jobs/view/3667594337) | August 29, 2023 |
 | Scrum Master (d/f/m) | Munich | Yes | arculus – a Jungheinrich company | [Apply](https://www.arculus.de/jobs/?gh_jid=4116480003) | August 29, 2023 |
