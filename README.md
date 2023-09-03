@@ -1,9 +1,15 @@
 # Latest Jobs
 
-This page is updated at September 03, 2023 17:40:31
+This page is updated at September 03, 2023 21:36:50
 
 | Position | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| Senior Machine Learning Engineer | London | Yes | Monzo | [Apply](https://boards.greenhouse.io/monzo/jobs/4551380) | September 3, 2023 |
+| Senior Data Scientist, Operations | London | Yes | Monzo | [Apply](https://boards.greenhouse.io/monzo/jobs/5108845) | September 3, 2023 |
+| Senior Data Scientist, Financial Crime | London | Yes | Monzo | [Apply](https://boards.greenhouse.io/monzo/jobs/3334222) | September 3, 2023 |
+| Senior Data Scientist | London | Yes | Monzo | [Apply](https://boards.greenhouse.io/monzo/jobs/4323836) | September 3, 2023 |
+| Senior Analytics Engineer | London | Yes | Monzo | [Apply](https://boards.greenhouse.io/monzo/jobs/3314326) | September 3, 2023 |
+| Analytics Engineering Lead, Fincrime | London | Yes | Monzo | [Apply](https://boards.greenhouse.io/monzo/jobs/5094763) | September 3, 2023 |
 | ASIC / FPGA Hardware Support & Applications Engineer | Eindhoven | Yes | IC Resources | [Apply](https://www.linkedin.com/jobs/view/3708228116) | September 3, 2023 |
 | Full Stack Developer | Eindhoven | Yes | Apollo Solutions | [Apply](https://www.apollo-solutions.com/jobs/job-details/?id=full-stack-developer-963606) | September 3, 2023 |
 | Android Engineer | Amsterdam | Yes | Picnic | [Apply](https://picnic.app/careers/jobs/3642756/technology--amp--engineering/amsterdam-north-holland-netherlands/android-engineer) | September 3, 2023 |
