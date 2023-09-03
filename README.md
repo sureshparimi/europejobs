@@ -1,9 +1,12 @@
 # Latest Jobs
 
-This page is updated at September 03, 2023 09:37:40
+This page is updated at September 03, 2023 13:37:40
 
 | Position | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| ASIC / FPGA Hardware Support & Applications Engineer | Eindhoven | Yes | IC Resources | [Apply](https://www.linkedin.com/jobs/view/3708228116) | September 3, 2023 |
+| Full Stack Developer | Eindhoven | Yes | Apollo Solutions | [Apply](https://www.apollo-solutions.com/jobs/job-details/?id=full-stack-developer-963606) | September 3, 2023 |
+| Android Engineer | Amsterdam | Yes | Picnic | [Apply](https://picnic.app/careers/jobs/3642756/technology--amp--engineering/amsterdam-north-holland-netherlands/android-engineer) | September 3, 2023 |
 | Frontend Developer (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8981726-frontend-developer-f-m-d) | August 30, 2023 |
 | Senior Product Owner - Payments Alliance | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5264674) | August 30, 2023 |
 | (Junior) Software Engineer - Open Banking Data (all genders) | Kraków | Yes | finleap connect | [Apply](https://qwist.jobs.personio.com/job/1115613?display=en&language=en) | August 29, 2023 |
