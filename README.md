@@ -1,9 +1,13 @@
 # Latest Jobs
 
-This page is updated at September 09, 2023 21:37:11
+This page is updated at September 10, 2023 01:36:40
 
 | Position | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| Project Manager (m/f/x) | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5336936) | September 9, 2023 |
+| Backend Engineer (m/f/x) | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5326383) | September 9, 2023 |
+| Staff Engineer - Product Security | Berlin | Yes | taxfix | [Apply](https://taxfix.de/en/careers/open-position/6904753002/) | September 9, 2023 |
+| Confirmed Data Analyst - Data Capabilities | Paris | Yes | BlaBlaCar | [Apply](https://jobs.lever.co/blablacar/5440f463-090d-43e0-b99b-efb62b954ec2/apply) | September 9, 2023 |
 | Senior Machine Learning Engineer | London | Yes | Monzo | [Apply](https://boards.greenhouse.io/monzo/jobs/4551380) | September 3, 2023 |
 | Senior Data Scientist, Operations | London | Yes | Monzo | [Apply](https://boards.greenhouse.io/monzo/jobs/5108845) | September 3, 2023 |
 | Senior Data Scientist, Financial Crime | London | Yes | Monzo | [Apply](https://boards.greenhouse.io/monzo/jobs/3334222) | September 3, 2023 |
