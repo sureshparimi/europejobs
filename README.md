@@ -1,9 +1,19 @@
 # Latest Jobs
 
-This page is updated at September 16, 2023 13:37:48
+This page is updated at September 16, 2023 17:40:20
 
 | Position | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| Junior Game Developer (m/f/d) - #5738 | Hamburg | Yes | Bigpoint GmbH | [Apply](https://bigpoint.jobs.personio.de/job/1244438?language=en&display=en) | September 16, 2023 |
+| Agile Coach (M/F/D) / Scrum Master (M/F/D) | Aachen & München | Yes | gridX | [Apply](https://gridx.jobs.personio.de/job/1235296?language=en&display=de) | September 16, 2023 |
+| Backend Engineer (all genders) - Developer Experience | Cologne | Yes | Kaufland.de | [Apply](https://join.com/companies/kaufland-e-commerce/9214319-backend-engineer-all-genders-developer-experience) | September 16, 2023 |
+| Back-end Engineer - Java | Paris | Yes | BlaBlaCar | [Apply](https://jobs.lever.co/blablacar/24f24fce-e60e-444e-b904-d984a89c2615/apply) | September 16, 2023 |
+| (Senior) Software Engineer (Golang) - Customer Data Platform (All genders) | Berlin | Yes | Delivery Hero | [Apply](https://careers.deliveryhero.com/global/en/job/DEHEGLOBALJR0043444EXTERNALENGLOBAL/-Senior-Software-Engineer-Golang-Customer-Data-Platform-All-genders) | September 16, 2023 |
+| Senior Backend Software Engineer (Python) - Consumer Data Products (All genders) | Berlin | Yes | Delivery Hero | [Apply](https://careers.deliveryhero.com/global/en/job/DEHEGLOBALJR0043455EXTERNALENGLOBAL/Senior-Backend-Software-Engineer-Python-Consumer-Data-Products-All-genders) | September 16, 2023 |
+| Senior SAP ABAP Developer | Amsterdam | Yes | STAFIDE | [Apply](https://stafide.zohorecruit.com/jobs/Careers/596028000005491406/Senior-SAP-ABAP-Developer) | September 16, 2023 |
+| Data & Analytics Senior Manager (m/f/x) | Berlin | Yes | Hashtag You | [Apply](https://hashtagyou.jobs.personio.com/job/1251296?language=en&display=en) | September 16, 2023 |
+| Senior Infrastructure Engineer (f/m/x) | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/HELLGLOBAL4739114EXTERNALENGLOBAL/Senior-Infrastructure-Engineer-f-m-x) | September 16, 2023 |
+| Senior Backend Engineer, Inventory Management (m/f/x) | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/HELLGLOBAL5336219EXTERNALENGLOBAL/Senior-Backend-Engineer-Inventory-Management-m-f-x) | September 16, 2023 |
 | Project Manager (m/f/x) | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5336936) | September 9, 2023 |
 | Backend Engineer (m/f/x) | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5326383) | September 9, 2023 |
 | Staff Engineer - Product Security | Berlin | Yes | taxfix | [Apply](https://taxfix.de/en/careers/open-position/6904753002/) | September 9, 2023 |
