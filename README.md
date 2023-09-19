@@ -1,9 +1,11 @@
 # Latest Jobs
 
-This page is updated at September 19, 2023 13:39:39
+This page is updated at September 19, 2023 17:42:11
 
 | Position | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| Fullstack Engineer, Trading | Zurich | Yes | 21.co | [Apply](https://boards.greenhouse.io/21co/jobs/4927609004) | September 19, 2023 |
+| QA Engineer | Zurich | Yes | 21.co | [Apply](https://boards.greenhouse.io/21co/jobs/4935596004) | September 19, 2023 |
 | Junior Game Developer (m/f/d) - #5738 | Hamburg | Yes | Bigpoint GmbH | [Apply](https://bigpoint.jobs.personio.de/job/1244438?language=en&display=en) | September 16, 2023 |
 | Agile Coach (M/F/D) / Scrum Master (M/F/D) | Aachen & München | Yes | gridX | [Apply](https://gridx.jobs.personio.de/job/1235296?language=en&display=de) | September 16, 2023 |
 | Backend Engineer (all genders) - Developer Experience | Cologne | Yes | Kaufland.de | [Apply](https://join.com/companies/kaufland-e-commerce/9214319-backend-engineer-all-genders-developer-experience) | September 16, 2023 |
