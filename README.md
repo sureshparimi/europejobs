@@ -1,9 +1,12 @@
 # Latest Jobs
 
-This page is updated at September 25, 2023 13:39:47
+This page is updated at September 25, 2023 17:42:54
 
 | Position | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| Frontend Engineer (Angular/React) | Breda | Yes | PEOPLED | [Apply](https://www.careers-page.com/getpeopled/job/L66R4YVW) | September 25, 2023 |
+| Senior React Native Engineer | Amsterdam | Yes | Picnic | [Apply](https://picnic.app/careers/jobs/2222813/technology--amp--engineering/amsterdam-north-holland-netherlands/react-native-engineer--experienced-) | September 25, 2023 |
+| Full Stack Frontend Engineer (m/f/d) | Berlin | Yes | Oetker Digital | [Apply](https://join.com/companies/oetkerdigital/9220333-full-stack-frontend-engineer-m-f-d) | September 25, 2023 |
 | Fullstack Engineer, Trading | Zurich | Yes | 21.co | [Apply](https://boards.greenhouse.io/21co/jobs/4927609004) | September 19, 2023 |
 | QA Engineer | Zurich | Yes | 21.co | [Apply](https://boards.greenhouse.io/21co/jobs/4935596004) | September 19, 2023 |
 | Junior Game Developer (m/f/d) - #5738 | Hamburg | Yes | Bigpoint GmbH | [Apply](https://bigpoint.jobs.personio.de/job/1244438?language=en&display=en) | September 16, 2023 |
