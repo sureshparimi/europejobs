@@ -1,9 +1,15 @@
 # Latest Jobs
 
-This page is updated at September 28, 2023 13:39:27
+This page is updated at September 28, 2023 17:42:28
 
 | Position | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| Python Engineer - Booking Fulfilment | Brno | Yes | Kiwi.com | [Apply](https://jobs.eu.lever.co/kiwi/a170610c-bde3-43b4-83c0-23f1c13eac86) | September 28, 2023 |
+| Fullstack Engineer | Berlin | Yes | SumUp | [Apply](https://www.sumup.com/careers/positions/berlin-germany/engineering/fullstack-engineer/6711501002) | September 28, 2023 |
+| Senior Project Manager, Continuous Improvement | Copenhagen | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5381750) | September 28, 2023 |
+| Android Engineer - Booking squad | Paris | Yes | BlaBlaCar | [Apply](https://jobs.lever.co/blablacar/cb6c80ee-2ed5-460e-87f2-f2b3b01ea4b3/) | September 28, 2023 |
+| QA Engineer (manual) | Barcelona | Yes | Wallapop | [Apply](https://boards.eu.greenhouse.io/wallapop/jobs/4219414101) | September 28, 2023 |
+| Java Developer IRC197582 | Kraków | Yes | GlobalLogic | [Apply](https://www.globallogic.com/careers/java-developer-irc197582) | September 28, 2023 |
 | Frontend Engineer (Angular/React) | Breda | Yes | PEOPLED | [Apply](https://www.careers-page.com/getpeopled/job/L66R4YVW) | September 25, 2023 |
 | Senior React Native Engineer | Amsterdam | Yes | Picnic | [Apply](https://picnic.app/careers/jobs/2222813/technology--amp--engineering/amsterdam-north-holland-netherlands/react-native-engineer--experienced-) | September 25, 2023 |
 | Full Stack Frontend Engineer (m/f/d) | Berlin | Yes | Oetker Digital | [Apply](https://join.com/companies/oetkerdigital/9220333-full-stack-frontend-engineer-m-f-d) | September 25, 2023 |
