@@ -1,9 +1,19 @@
 # Latest Jobs
 
-This page is updated at October 06, 2023 13:39:12
+This page is updated at October 06, 2023 17:42:50
 
 | Position | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| Data Scientist (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/9349990-data-scientist-f-m-d) | October 6, 2023 |
+| Business Analyst (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/9405069-business-analyst-f-m-d) | October 6, 2023 |
+| Backend Engineer - Java (f/m/d) | Hamburg | Yes | Container xChange | [Apply](https://www.arbeitnow.com/jobs/companies/container-xchange/backend-engineer-java-hamburg-69746) | October 6, 2023 |
+| Fullstack Engineer - Java/Angular (f/m/d) | Hamburg | Yes | Container xChange | [Apply](https://www.arbeitnow.com/jobs/companies/container-xchange/fullstack-engineer-java-angular-hamburg-223507) | October 6, 2023 |
+| Game Security Programmer | Prague | Yes | Keen Software House | [Apply](https://www.keenswh.com/job/game-security-programmer/) | October 6, 2023 |
+| Senior 3D Game Artist | Prague | Yes | Keen Software House | [Apply](https://www.keenswh.com/job/senior-3d-game-artist/) | October 6, 2023 |
+| Tools Programmer | Prague | Yes | Keen Software House | [Apply](https://www.keenswh.com/job/senior-ui-tools-programmer/) | October 6, 2023 |
+| Lead Gameplay Programmer | Prague | Yes | Keen Software House | [Apply](https://www.keenswh.com/job/lead-gameplay-programmer/) | October 6, 2023 |
+| Tech Lead (Java) | Amsterdam | Yes | Picnic | [Apply](https://picnic.app/careers/jobs/5163343/technology--amp--engineering/amsterdam-north-holland-netherlands/tech-lead--java-) | October 6, 2023 |
+| Senior Site Reliability Engineer | Amsterdam | Yes | Picnic | [Apply](https://picnic.app/careers/jobs/4466490/technology--amp--engineering/amsterdam-north-holland-netherlands/senior-site-reliability-engineer) | October 6, 2023 |
 | Python Engineer - Booking Fulfilment | Brno | Yes | Kiwi.com | [Apply](https://jobs.eu.lever.co/kiwi/a170610c-bde3-43b4-83c0-23f1c13eac86) | September 28, 2023 |
 | Fullstack Engineer | Berlin | Yes | SumUp | [Apply](https://www.sumup.com/careers/positions/berlin-germany/engineering/fullstack-engineer/6711501002) | September 28, 2023 |
 | Senior Project Manager, Continuous Improvement | Copenhagen | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5381750) | September 28, 2023 |
