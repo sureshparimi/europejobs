@@ -1,9 +1,15 @@
 # Latest Jobs
 
-This page is updated at October 16, 2023 13:40:01
+This page is updated at October 16, 2023 17:42:59
 
 | Position | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| Senior Hardware Design Engineer | Zurich | Yes | Zurich Instruments AG | [Apply](https://www.zhinst.com/others/en/jobs/senior-hardware-design-engineer-80-100) | October 16, 2023 |
+| Senior Frontend Engineer - Angular (f/m/d) | Hamburg | Yes | Container xChange | [Apply](https://www.arbeitnow.com/jobs/companies/container-xchange/senior-frontend-engineer-angular-hamburg-391448) | October 16, 2023 |
+| Senior Backend Engineer (M/F/D) | Aachen & München | Yes | gridX | [Apply](https://www.arbeitnow.com/jobs/companies/gridx/senior-backend-engineer-aachen-462822) | October 16, 2023 |
+| Senior Go Developer (M/F/D) Renewable Energies | Aachen & München | Yes | gridX | [Apply](https://www.arbeitnow.com/jobs/companies/gridx/senior-go-developer-renewable-energies-aachen-208112) | October 16, 2023 |
+| (Senior) Java Full Stack Developer (m/f/d) - relocation | Munich | Yes | Transparent Hiring | [Apply](https://www.arbeitnow.com/jobs/companies/transparent-hiring/senior-java-full-stack-developer-relocation-munich-94323) | October 16, 2023 |
+| Senior Full Stack JavaScript Engineer (m/f/d) - relocation | Munich | Yes | Transparent Hiring | [Apply](https://www.arbeitnow.com/jobs/companies/transparent-hiring/senior-full-stack-javascript-engineer-relocation-munich-144629) | October 16, 2023 |
 | Data Scientist (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/9349990-data-scientist-f-m-d) | October 6, 2023 |
 | Business Analyst (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/9405069-business-analyst-f-m-d) | October 6, 2023 |
 | Backend Engineer - Java (f/m/d) | Hamburg | Yes | Container xChange | [Apply](https://www.arbeitnow.com/jobs/companies/container-xchange/backend-engineer-java-hamburg-69746) | October 6, 2023 |
