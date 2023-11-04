@@ -1,118 +1,9 @@
 # Latest Jobs
 
-This page is updated at November 04, 2023 17:40:54
+This page is updated at November 04, 2023 21:37:25
 
 | Position | Job Location | Visa Sponsorship | Company Name | Job Link | Job Posted On | Date Posted |
 | --- | --- | --- | --- | --- | --- | --- |
-| Senior Hardware Design Engineer | Zurich | Yes | Zurich Instruments AG | [Apply](https://www.zhinst.com/others/en/jobs/senior-hardware-design-engineer-80-100) | October 16, 2023 |
-| Senior Frontend Engineer - Angular (f/m/d) | Hamburg | Yes | Container xChange | [Apply](https://www.arbeitnow.com/jobs/companies/container-xchange/senior-frontend-engineer-angular-hamburg-391448) | October 16, 2023 |
-| Senior Backend Engineer (M/F/D) | Aachen & München | Yes | gridX | [Apply](https://www.arbeitnow.com/jobs/companies/gridx/senior-backend-engineer-aachen-462822) | October 16, 2023 |
-| Senior Go Developer (M/F/D) Renewable Energies | Aachen & München | Yes | gridX | [Apply](https://www.arbeitnow.com/jobs/companies/gridx/senior-go-developer-renewable-energies-aachen-208112) | October 16, 2023 |
-| (Senior) Java Full Stack Developer (m/f/d) - relocation | Munich | Yes | Transparent Hiring | [Apply](https://www.arbeitnow.com/jobs/companies/transparent-hiring/senior-java-full-stack-developer-relocation-munich-94323) | October 16, 2023 |
-| Senior Full Stack JavaScript Engineer (m/f/d) - relocation | Munich | Yes | Transparent Hiring | [Apply](https://www.arbeitnow.com/jobs/companies/transparent-hiring/senior-full-stack-javascript-engineer-relocation-munich-144629) | October 16, 2023 |
-| Data Scientist (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/9349990-data-scientist-f-m-d) | October 6, 2023 |
-| Business Analyst (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/9405069-business-analyst-f-m-d) | October 6, 2023 |
-| Backend Engineer - Java (f/m/d) | Hamburg | Yes | Container xChange | [Apply](https://www.arbeitnow.com/jobs/companies/container-xchange/backend-engineer-java-hamburg-69746) | October 6, 2023 |
-| Fullstack Engineer - Java/Angular (f/m/d) | Hamburg | Yes | Container xChange | [Apply](https://www.arbeitnow.com/jobs/companies/container-xchange/fullstack-engineer-java-angular-hamburg-223507) | October 6, 2023 |
-| Game Security Programmer | Prague | Yes | Keen Software House | [Apply](https://www.keenswh.com/job/game-security-programmer/) | October 6, 2023 |
-| Senior 3D Game Artist | Prague | Yes | Keen Software House | [Apply](https://www.keenswh.com/job/senior-3d-game-artist/) | October 6, 2023 |
-| Tools Programmer | Prague | Yes | Keen Software House | [Apply](https://www.keenswh.com/job/senior-ui-tools-programmer/) | October 6, 2023 |
-| Lead Gameplay Programmer | Prague | Yes | Keen Software House | [Apply](https://www.keenswh.com/job/lead-gameplay-programmer/) | October 6, 2023 |
-| Tech Lead (Java) | Amsterdam | Yes | Picnic | [Apply](https://picnic.app/careers/jobs/5163343/technology--amp--engineering/amsterdam-north-holland-netherlands/tech-lead--java-) | October 6, 2023 |
-| Senior Site Reliability Engineer | Amsterdam | Yes | Picnic | [Apply](https://picnic.app/careers/jobs/4466490/technology--amp--engineering/amsterdam-north-holland-netherlands/senior-site-reliability-engineer) | October 6, 2023 |
-| Python Engineer - Booking Fulfilment | Brno | Yes | Kiwi.com | [Apply](https://jobs.eu.lever.co/kiwi/a170610c-bde3-43b4-83c0-23f1c13eac86) | September 28, 2023 |
-| Fullstack Engineer | Berlin | Yes | SumUp | [Apply](https://www.sumup.com/careers/positions/berlin-germany/engineering/fullstack-engineer/6711501002) | September 28, 2023 |
-| Senior Project Manager, Continuous Improvement | Copenhagen | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5381750) | September 28, 2023 |
-| Android Engineer - Booking squad | Paris | Yes | BlaBlaCar | [Apply](https://jobs.lever.co/blablacar/cb6c80ee-2ed5-460e-87f2-f2b3b01ea4b3/) | September 28, 2023 |
-| QA Engineer (manual) | Barcelona | Yes | Wallapop | [Apply](https://boards.eu.greenhouse.io/wallapop/jobs/4219414101) | September 28, 2023 |
-| Java Developer IRC197582 | Kraków | Yes | GlobalLogic | [Apply](https://www.globallogic.com/careers/java-developer-irc197582) | September 28, 2023 |
-| Frontend Engineer (Angular/React) | Breda | Yes | PEOPLED | [Apply](https://www.careers-page.com/getpeopled/job/L66R4YVW) | September 25, 2023 |
-| Senior React Native Engineer | Amsterdam | Yes | Picnic | [Apply](https://picnic.app/careers/jobs/2222813/technology--amp--engineering/amsterdam-north-holland-netherlands/react-native-engineer--experienced-) | September 25, 2023 |
-| Full Stack Frontend Engineer (m/f/d) | Berlin | Yes | Oetker Digital | [Apply](https://join.com/companies/oetkerdigital/9220333-full-stack-frontend-engineer-m-f-d) | September 25, 2023 |
-| Fullstack Engineer, Trading | Zurich | Yes | 21.co | [Apply](https://boards.greenhouse.io/21co/jobs/4927609004) | September 19, 2023 |
-| QA Engineer | Zurich | Yes | 21.co | [Apply](https://boards.greenhouse.io/21co/jobs/4935596004) | September 19, 2023 |
-| Junior Game Developer (m/f/d) - #5738 | Hamburg | Yes | Bigpoint GmbH | [Apply](https://bigpoint.jobs.personio.de/job/1244438?language=en&display=en) | September 16, 2023 |
-| Agile Coach (M/F/D) / Scrum Master (M/F/D) | Aachen & München | Yes | gridX | [Apply](https://gridx.jobs.personio.de/job/1235296?language=en&display=de) | September 16, 2023 |
-| Backend Engineer (all genders) - Developer Experience | Cologne | Yes | Kaufland.de | [Apply](https://join.com/companies/kaufland-e-commerce/9214319-backend-engineer-all-genders-developer-experience) | September 16, 2023 |
-| Back-end Engineer - Java | Paris | Yes | BlaBlaCar | [Apply](https://jobs.lever.co/blablacar/24f24fce-e60e-444e-b904-d984a89c2615/apply) | September 16, 2023 |
-| (Senior) Software Engineer (Golang) - Customer Data Platform (All genders) | Berlin | Yes | Delivery Hero | [Apply](https://careers.deliveryhero.com/global/en/job/DEHEGLOBALJR0043444EXTERNALENGLOBAL/-Senior-Software-Engineer-Golang-Customer-Data-Platform-All-genders) | September 16, 2023 |
-| Senior Backend Software Engineer (Python) - Consumer Data Products (All genders) | Berlin | Yes | Delivery Hero | [Apply](https://careers.deliveryhero.com/global/en/job/DEHEGLOBALJR0043455EXTERNALENGLOBAL/Senior-Backend-Software-Engineer-Python-Consumer-Data-Products-All-genders) | September 16, 2023 |
-| Senior SAP ABAP Developer | Amsterdam | Yes | STAFIDE | [Apply](https://stafide.zohorecruit.com/jobs/Careers/596028000005491406/Senior-SAP-ABAP-Developer) | September 16, 2023 |
-| Data & Analytics Senior Manager (m/f/x) | Berlin | Yes | Hashtag You | [Apply](https://hashtagyou.jobs.personio.com/job/1251296?language=en&display=en) | September 16, 2023 |
-| Senior Infrastructure Engineer (f/m/x) | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/HELLGLOBAL4739114EXTERNALENGLOBAL/Senior-Infrastructure-Engineer-f-m-x) | September 16, 2023 |
-| Senior Backend Engineer, Inventory Management (m/f/x) | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/HELLGLOBAL5336219EXTERNALENGLOBAL/Senior-Backend-Engineer-Inventory-Management-m-f-x) | September 16, 2023 |
-| Project Manager (m/f/x) | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5336936) | September 9, 2023 |
-| Backend Engineer (m/f/x) | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5326383) | September 9, 2023 |
-| Staff Engineer - Product Security | Berlin | Yes | taxfix | [Apply](https://taxfix.de/en/careers/open-position/6904753002/) | September 9, 2023 |
-| Confirmed Data Analyst - Data Capabilities | Paris | Yes | BlaBlaCar | [Apply](https://jobs.lever.co/blablacar/5440f463-090d-43e0-b99b-efb62b954ec2/apply) | September 9, 2023 |
-| Senior Machine Learning Engineer | London | Yes | Monzo | [Apply](https://boards.greenhouse.io/monzo/jobs/4551380) | September 3, 2023 |
-| Senior Data Scientist, Operations | London | Yes | Monzo | [Apply](https://boards.greenhouse.io/monzo/jobs/5108845) | September 3, 2023 |
-| Senior Data Scientist, Financial Crime | London | Yes | Monzo | [Apply](https://boards.greenhouse.io/monzo/jobs/3334222) | September 3, 2023 |
-| Senior Data Scientist | London | Yes | Monzo | [Apply](https://boards.greenhouse.io/monzo/jobs/4323836) | September 3, 2023 |
-| Senior Analytics Engineer | London | Yes | Monzo | [Apply](https://boards.greenhouse.io/monzo/jobs/3314326) | September 3, 2023 |
-| Analytics Engineering Lead, Fincrime | London | Yes | Monzo | [Apply](https://boards.greenhouse.io/monzo/jobs/5094763) | September 3, 2023 |
-| ASIC / FPGA Hardware Support & Applications Engineer | Eindhoven | Yes | IC Resources | [Apply](https://www.linkedin.com/jobs/view/3708228116) | September 3, 2023 |
-| Full Stack Developer | Eindhoven | Yes | Apollo Solutions | [Apply](https://www.apollo-solutions.com/jobs/job-details/?id=full-stack-developer-963606) | September 3, 2023 |
-| Android Engineer | Amsterdam | Yes | Picnic | [Apply](https://picnic.app/careers/jobs/3642756/technology--amp--engineering/amsterdam-north-holland-netherlands/android-engineer) | September 3, 2023 |
-| Frontend Developer (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8981726-frontend-developer-f-m-d) | August 30, 2023 |
-| Senior Product Owner - Payments Alliance | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5264674) | August 30, 2023 |
-| (Junior) Software Engineer - Open Banking Data (all genders) | Kraków | Yes | finleap connect | [Apply](https://qwist.jobs.personio.com/job/1115613?display=en&language=en) | August 29, 2023 |
-| Platform Software Architect | Amsterdam | Yes | Storyteq | [Apply](https://www.linkedin.com/jobs/view/3667594337) | August 29, 2023 |
-| Scrum Master (d/f/m) | Munich | Yes | arculus – a Jungheinrich company | [Apply](https://www.arculus.de/jobs/?gh_jid=4116480003) | August 29, 2023 |
-| Control Engineer for Electric Motors (d/f/m) | Munich | Yes | arculus – a Jungheinrich company | [Apply](https://www.arculus.de/jobs/?gh_jid=5418497003) | August 29, 2023 |
-| Rust Developer (d/f/m) | Munich | Yes | arculus – a Jungheinrich company | [Apply](https://www.arculus.de/jobs/?gh_jid=5684797003) | August 29, 2023 |
-| Finance Manager - Consolidation & Projects | Paris | Yes | BlaBlaCar | [Apply](https://jobs.lever.co/blablacar/27037ac9-321b-46fc-b14d-cdbb4059c0df) | August 29, 2023 |
-| Senior PR Manager (m/f/d) | Berlin | Yes | Moonfare | [Apply](https://boards.greenhouse.io/moonfareintnl/jobs/5726344003) | August 29, 2023 |
-| Senior Paid Social Manager (m/f/x) | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5318389) | August 29, 2023 |
-| Marketing Analyst (M/F/D) | Aachen & München | Yes | gridX | [Apply](https://gridx.jobs.personio.de/job/1222898?language=en&display=en) | August 24, 2023 |
-| Machine Learning Project Manager (m/f/d) | Berlin | Yes | Merantix Momentum | [Apply](https://join.com/companies/mxlabs/8994634-machine-learning-project-manager-m-f-d) | August 24, 2023 |
-| Senior Backend Developer | Barcelona | Yes | Sequra | [Apply](https://sequra.recruitee.com/o/senior-backend-developer-barcelona) | August 24, 2023 |
-| Business Analyst | Amsterdam | Yes | STAFIDE | [Apply](https://stafide.zohorecruit.com/jobs/Careers/596028000011779470/Business-Analyst) | August 24, 2023 |
-| DevOps Analyst | Amsterdam | Yes | STAFIDE | [Apply](https://stafide.zohorecruit.com/jobs/Careers/596028000011779274/DevOps-Analyst) | August 24, 2023 |
-| Senior UX Designer (m/f/d) | Berlin | Yes | Instapro | [Apply](https://careers.instapro.group/o/senior-ux-designer-mfd) | August 24, 2023 |
-| Lead UX Researcher | Berlin | Yes | Instapro | [Apply](https://careers.instapro.group/o/template-germany-6) | August 24, 2023 |
-| SEO Manager | Berlin | Yes | Instapro | [Apply](https://careers.instapro.group/o/seo-manager-amsterdam) | August 24, 2023 |
-| Lead Frontend Developer (Innovation team) | Berlin | Yes | Instapro | [Apply](https://careers.instapro.group/o/lead-frontend-developer-innovation-team-3) | August 24, 2023 |
-| UI/UX Designer (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8891402-ui-ux-designer-f-m-d) | August 17, 2023 |
-| Go Backend Developer (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8891399-go-backend-developer-f-m-d) | August 17, 2023 |
-| Supply Growth Manager (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8891734-supply-growth-manager-f-m-d) | August 17, 2023 |
-| .Net & Azure Engineer | Amsterdam | Yes | STAFIDE | [Apply](https://stafide.zohorecruit.com/jobs/Careers/596028000011577470/Net-Azure-Engineer) | August 17, 2023 |
-| Product Owner - B2C (m | w | x) | Berlin | [Apply](Yes) | idealo internet GmbH|https://jobs.idealo.com/o/product-owner-b2c-mwx-1|August 17, 2023 |
-| (Senior) Fullstack Engineer - Homepage | Berlin | Yes | idealo internet GmbH | [Apply](https://jobs.idealo.com/o/senior-fullstack-engineer-homepage-mfx) | August 17, 2023 |
-| Senior Backend Engineer (m/f/d) | Berlin | Yes | Vermietet.de (von ImmoScout24) | [Apply](https://join.com/companies/zenhomes/8926240-senior-backend-engineer-m-f-d) | August 17, 2023 |
-| Senior Backend Engineer (m/f/d) | Berlin | Yes | Dunia | [Apply](https://join.com/companies/dunia/8932941-senior-software-engineer-f-m-d) | August 17, 2023 |
-| Business Development Manager (f/m/d) | Hamburg | Yes | justDice | [Apply](https://jobs.lever.co/applike/6ba9a37b-8478-439b-9d47-39e72dc99b91) | August 17, 2023 |
-| (Senior) SEO Manager (m/f/x) | Berlin | Yes | Kitchen Stories - Anyone can cook! | [Apply](https://join.com/companies/kitchenstories/8926824-senior-seo-manager-m-f-x) | August 17, 2023 |
-| Junior Backend Engineer (d/f/m) | Berlin | Yes | Scout24 | [Apply](https://www.scout24.com/en/career/jobs/engineering/junior-backend-engineer-d-f-m-5186957) | August 11, 2023 |
-| Senior Full Stack Engineer - React & Elixir or Ruby (gn) | Berlin | Yes | MEDWING | [Apply](https://medwing.jobs.personio.de/job/1190128) | August 11, 2023 |
-| Senior Frontend Engineer | Berlin | Yes | SumUp | [Apply](https://www.sumup.com/careers/positions/berlin-germany/engineering/senior-frontend-engineer/6884697002) | August 11, 2023 |
-| Product Marketing Specialist (d/f/m) | Berlin | Yes | taxfix | [Apply](https://taxfix.de/en/careers/open-position/6884964002/) | August 11, 2023 |
-| Senior Marketing Automation Manager (m/f/x) | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5260162) | August 11, 2023 |
-| Node.js Developer | Amsterdam | Yes | STAFIDE | [Apply](https://stafide.zohorecruit.com/jobs/Careers/596028000011240018/Node-js-Developer) | August 6, 2023 |
-| Marketing and Communications Lead (CH10866) | Bath | Yes | University of Bath | [Apply](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=CH10866) | August 6, 2023 |
-| Backend QA Tester | Hamburg | Yes | justDice | [Apply](https://join.com/companies/justdice/8821218-backend-qa-tester-f-m-d) | August 6, 2023 |
-| Senior Data Engineer - Pooling Analytics (m/f/d) | Berlin | Yes | MOIA | [Apply](https://boards.eu.greenhouse.io/moia/jobs/4200156101) | August 6, 2023 |
-| Senior DevOps Engineer (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8825465-senior-devops-engineer-f-m-d) | August 6, 2023 |
-| Senior Android Developer (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8770806-senior-android-developer-f-m-d) | August 6, 2023 |
-| Lead Business Intelligence Analyst (f/m/d) | Hamburg | Yes | justDice | [Apply](https://join.com/companies/justdice/8748341-lead-business-intelligence-analyst-f-m-d) | August 6, 2023 |
-| Senior Analytical Engineer - Marketing (m/f/d) | Berlin | Yes | HomeToGo | [Apply](https://www.linkedin.com/jobs/view/3650992740) | August 3, 2023 |
-| Manager UX Writing & Content Design, FinTech | Amsterdam | Yes | Booking.com | [Apply](https://jobs.booking.com/careers/job/562949955618345) | August 3, 2023 |
-| Azure Data Engineer | Amsterdam | Yes | STAFIDE | [Apply](https://stafide.zohorecruit.com/jobs/Careers/596028000011185096/Azure-Data-Engineer) | August 3, 2023 |
-| Senior Backend Engineer (Kotlin) – Mobile Application Development (m | f | x) | Berlin | [Apply](Yes) | idealo internet GmbH|https://jobs.idealo.com/o/senior-backend-engineer-kotlin-mobile-application-development-mfx|August 3, 2023 |
-| Quality Assurance Engineer | Düsseldorf | Yes | trivago | [Apply](https://careers.trivago.com/job/r6743285002) | August 3, 2023 |
-| Backend Engineer (Kotlin) - Reporting & Insights | Berlin | Yes | SumUp | [Apply](https://www.sumup.com/careers/positions/berlin-germany/engineering/backend-engineer-kotlin-reporting-insights/6872555002) | August 3, 2023 |
-| Junior Java Engineer | Eindhoven | Yes | Brunel | [Apply](https://www.brunel.net/nl-nl/vacatures/junior-java-engineer-pub402757) | July 30, 2023 |
-| Junior .NET Engineer | Eindhoven | Yes | Brunel | [Apply](https://www.brunel.net/nl-nl/vacatures/junior-net-engineer-pub402759) | July 30, 2023 |
-| Senior Data Engineer (f/m/x) | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5100839) | July 30, 2023 |
-| Product Manager - BlaBlaCar Daily | Paris | Yes | BlaBlaCar | [Apply](https://jobs.lever.co/blablacar/493f4637-bedf-4986-8739-b414d5060c0a/apply) | July 30, 2023 |
-| (Senior) Data Analyst - askStatista (m/f/d) | Hamburg | Yes | Statista | [Apply](https://statista.jobs.personio.de/job/1197598?display=en) | July 26, 2023 |
-| Analytics Engineer (m/f/d) - SCAYLE | Hamburg | Yes | About you | [Apply](https://www.linkedin.com/jobs/view/3674671829) | July 26, 2023 |
-| Marketing Specialist (all genders) | Berlin | Yes | Payrails | [Apply](https://payrails-a878df-6480e55b81e9de7932c1b74.webflow.io/career/jobs?id=1199084) | July 26, 2023 |
-| Data Scientist for Developing an Animal Digital Twin | Wageningen | Yes | Wageningen University & Research | [Apply](https://www.wur.nl/nl/vacature/data-scientist-for-developing-an-animal-digital-twin.htm) | July 26, 2023 |
-| PhD Candidate in Nutrition and measuring Biological Ageing | Wageningen | Yes | Wageningen University & Research | [Apply](https://www.wur.nl/nl/vacature/phd-candidate-in-nutrition-and-measuring-biological-ageing.htm) | July 26, 2023 |
-| Junior Analyst Technology Markets (m/f/d) | Hamburg | Yes | Statista | [Apply](https://statista.jobs.personio.de/job/1192670?language=de&display=en) | July 25, 2023 |
-| Performance Marketing Analytics Manager (all genders) | Berlin | Yes | Delivery Hero | [Apply](https://careers.deliveryhero.com/global/en/job/DEHEGLOBALJR0040732EXTERNALENGLOBAL/Performance-Marketing-Analytics-Manager-all-genders) | July 25, 2023 |
-| Data & Reporting Analyst (fixed-term role) | Bath | Yes | University of Bath | [Apply](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=HC10775R) | July 25, 2023 |
 | AI Full Stack Engineer (m/f/d) | Berlin | Yes | Merantix Momentum | [Apply](https://join.com/companies/mxlabs/8664026-ai-full-stack-engineer-m-f-d) | July 20, 2023 |
 | DevOps Engineer (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8669156-devops-engineer-f-m-d) | July 20, 2023 |
 | Junior CRM Manager (m/f/x) | Berlin | Yes | Hashtag You | [Apply](https://hashtagyou.jobs.personio.com/job/1192172?display=en) | July 20, 2023 |
@@ -120,6 +11,7 @@ This page is updated at November 04, 2023 17:40:54
 | Unity Gameplay Developer (f/m/d) | Hamburg | Yes | Sunday GmbH | [Apply](https://join.com/companies/sunday/8668733-unity-gameplay-developer-f-m-d-munich) | July 20, 2023 |
 | (Junior) Research Analyst (d/m/w) | Berlin | Yes | Civey | [Apply](https://civey-gmbh.jobs.personio.de/job/1067433?display=en) | July 20, 2023 |
 | Business Intelligence Developer (f/m/d) | Berlin | Yes | Scout24 | [Apply](https://www.scout24.com/en/career/jobs/engineering/business-intelligence-developer-f-m-d-5202134) | July 20, 2023 |
+| Junior Backend Engineer (d/f/m) | Berlin | Yes | Scout24 | [Apply](https://www.scout24.com/en/career/jobs/engineering/junior-backend-engineer-d-f-m-5186957) | July 18, 2023 |
 | Data Engineer | Madrid | Yes | DataScienceJobs.es | [Apply](https://www.linkedin.com/jobs/view/3666559665) | July 18, 2023 |
 | Performance Marketing Manager (m/f/d) | Berlin | Yes | Micropsi Industries | [Apply](https://join.com/companies/micropsi-industries/8629168-performance-marketing-manager-m-f-d) | July 18, 2023 |
 | (Senior) Software Engineer (Frontend) (m/f/d) | Berlin | Yes | raisin | [Apply](https://join.com/companies/raisin/8646344-senior-software-engineer-frontend-m-f-d) | July 18, 2023 |
@@ -127,6 +19,7 @@ This page is updated at November 04, 2023 17:40:54
 | Product Analyst - Food (m/f/x) | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5187341) | July 18, 2023 |
 | Principal Engineer | Berlin | Yes | HelloFresh | [Apply](https://careers.hellofresh.com/global/en/job/5151724) | July 18, 2023 |
 | Senior Python Engineer | Düsseldorf | Yes | Picnic | [Apply](https://picnic.app/careers/jobs/4565089/technology--amp--engineering/amsterdam-north-holland-netherlands/senior-python-engineer) | July 18, 2023 |
+| Senior Android Developer (f/m/d) | Hamburg | Yes | adjoe | [Apply](https://join.com/companies/adjoe/8622938-senior-android-developer-f-m-d) | July 16, 2023 |
 | Senior Frontend Engineer - React / Typescript | Amsterdam | Yes | Insify | [Apply](https://careers.insify.nl/senior-frontend-engineer-react-typescript) | July 16, 2023 |
 | Backend Developer (Node.js) | Amsterdam | Yes | Insify | [Apply](https://careers.insify.nl/back-end-developer-nodejs) | July 16, 2023 |
 | Senior Backend/Full-Stack Typescript Engineer | Amsterdam | Yes | Insify | [Apply](https://careers.insify.nl/full-stack-software-engineer-2) | July 16, 2023 |
@@ -224,6 +117,7 @@ This page is updated at November 04, 2023 17:40:54
 | Senior Software Engineer (M/F/D) | Aachen & München | Yes | gridX | [Apply](https://gridx.jobs.personio.de/job/631925?display=en) | June 21, 2023 |
 | Backend Developer (M/F/D) | Aachen & München | Yes | gridX | [Apply](https://gridx.jobs.personio.de/job/543653?display=en) | June 21, 2023 |
 | Technical Product Owner | Berlin | Yes | idealo internet GmbH | [Apply](https://jobs.idealo.com/o/technical-product-owner-mfd) | June 21, 2023 |
+| (Senior) Fullstack Engineer - Homepage | Berlin | Yes | idealo internet GmbH | [Apply](https://jobs.idealo.com/o/senior-fullstack-engineer-homepage-mfx) | June 21, 2023 |
 | (Senior) Backend Developer | Berlin | Yes | idealo internet GmbH | [Apply](https://jobs.idealo.com/o/senior-backend-developer-mfx) | June 21, 2023 |
 | PR & Communications Manager | Berlin | Yes | idealo internet GmbH | [Apply](https://jobs.idealo.com/o/pr-communications-manager-mwx-1) | June 21, 2023 |
 | Brand & Communications Manager France | Berlin | Yes | idealo internet GmbH | [Apply](https://jobs.idealo.com/o/brand-communications-manager-france-mfx-berlin) | June 21, 2023 |
@@ -269,6 +163,7 @@ This page is updated at November 04, 2023 17:40:54
 | Network DevOps Engineer | Amsterdam | Yes | Adyen | [Apply](https://boards.greenhouse.io/adyen/jobs/4821859) | June 15, 2023 |
 | Workday Solution Architect (x/f/m) | Paris | Yes | Doctolib | [Apply](https://careers.doctolib.com/job/?gh_jid=5643238003) | June 15, 2023 |
 | Lead Sales Digitization Manager (d/f/m) | Berlin | Yes | Scout24 | [Apply](https://www.immobilienscout24.de/unternehmen/karriere/jobs/sales-sales-operations/senior-sales-digitization-manager-d-f-m-5071616/) | June 15, 2023 |
+| Performance Marketing Analytics Manager (all genders) | Berlin | Yes | Delivery Hero | [Apply](https://careers.deliveryhero.com/global/en/job/DEHEGLOBALJR0040732EXTERNALENGLOBAL/Performance-Marketing-Analytics-Manager-all-genders) | June 15, 2023 |
 | (Senior) Product Analyst - Logistics | Berlin | Yes | Delivery Hero | [Apply](https://careers.deliveryhero.com/global/en/job/DEHEGLOBALJR0038804EXTERNALENGLOBAL/-Senior-Product-Analyst-Logistics) | June 15, 2023 |
 | Junior GCP DevOps Engineer (m/f/d) | Hamburg | Yes | About you | [Apply](https://corporate.aboutyou.de/en/jobs/junior-gcp-devops-engineer-m-f-d-marketing-intelligence-and-technology-team) | June 14, 2023 |
 | (Junior) Business Analyst (m/w/d) - SCAYLE | Hamburg | Yes | About you | [Apply](https://corporate.aboutyou.de/en/jobs/junior-business-analyst-m-w-d-scayle) | June 14, 2023 |
@@ -379,6 +274,7 @@ This page is updated at November 04, 2023 17:40:54
 | Development Engineer (m/f/x) for ASIC/FPGA | Dresden | Yes | K-tronik GmbH | [Apply](https://join.com/companies/k-tronik/7920276-development-engineer-m-f-x-for-asic-fpga) | May 28, 2023 |
 | UI Artist (f/m/d) | Munich | Yes | Chimera Entertainment | [Apply](https://join.com/companies/chimera-entertainment/8160621-ui-artist-f-m-d) | May 28, 2023 |
 | Risk and Fraud Analyst - Small Partner Solutions (m/f/d) | Berlin | Yes | HomeToGo | [Apply](https://boards.eu.greenhouse.io/hometogo/jobs/4169559101) | May 28, 2023 |
+| Senior Backend Engineer (m/f/d) | Berlin | Yes | Vermietet.de (von ImmoScout24) | [Apply](https://join.com/companies/zenhomes/8163756-senior-backend-engineer-m-f-d) | May 28, 2023 |
 | Linux System Engineer | Amsterdam | Yes | Adyen | [Apply](https://boards.greenhouse.io/adyen/jobs/3751149) | May 28, 2023 |
 | Learning and Development Specialist | Paris | Yes | BlaBlaCar | [Apply](https://jobs.lever.co/blablacar/0226a24b-9780-4821-8a5b-02ad6a518692/apply) | May 25, 2023 |
 | Back End Developer | Amsterdam | Yes | Marktplaats | [Apply](https://www.linkedin.com/jobs/search/?currentJobId=3610515015&f_C=399098&geoId=92000000&originToLandingJobPostings=3616903681%2C3616904514%2C3610515015%2C3614603459%2C3599135782%2C3610522054%2C3612085361) | May 25, 2023 |
